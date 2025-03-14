@@ -1,8 +1,8 @@
-- 👋 I do data analytics, transform raw data to meaningful data sets tailored for business objectives.
-  Initial data extract in shell
-  Export to spreadsheet
-  Construct and normalize data sets
-  Further processing with python data frame
+- 👋 I do data analytics, transform raw data to meaningful data sets tailored for business objectives. 
+  Initial data extract in shell,
+  Export to spreadsheet,
+  Construct and normalize data sets,
+  Further processing with python data frame.
   
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
